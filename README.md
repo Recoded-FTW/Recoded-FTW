@@ -5,7 +5,7 @@
 - 📫 How to reach me recodedlife{@}outlook.com
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I have traveled across 5 continents
--      Enjoy swimming in the sea, especially in winter months
+-     Enjoy swimming in the sea, especially in the winter months
 
 <!---
 Recoded-FTW/Recoded-FTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
