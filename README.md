@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me recodedlife{@}outlook.com
 - 😄 Pronouns: he / him
--     Reading books
+- 📖 I'm reading so many books
 - ⚡ Fun fact: I have traveled across 5 continents
-- ⚡ Activity: Enjoy swimming in the sea, especially in the winter months
+- 🏊‍♀️🐬 Activity: Enjoy swimming in the sea, especially in the winter months
 
 <!---
 Recoded-FTW/Recoded-FTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
